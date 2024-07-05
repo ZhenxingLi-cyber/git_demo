@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "kalmanfilter.h": "c",
+        "arm_math.h": "c",
+        "QEKF_IMU.C": "cpp",
+        "random": "cpp",
+        "bsp_dwt.h": "c",
+        "mpu6050.h": "c",
+        "software_i2c.h": "c",
+        "gpio.h": "c",
+        "ins_task_h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
